@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://zone-shirts-note.go-apgujeong-nrb.xyz/sitemap.xml
+Sitemap: https://zone-shirts-note.go-apgujeong-nrb.xyz/sitemap-pages.xml
